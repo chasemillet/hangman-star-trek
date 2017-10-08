@@ -1,0 +1,28 @@
+body{
+	background-color: black;
+	font-color: white;
+}
+p{
+	color: white;
+}
+.logo{
+	position: absolute;
+	left: 20%;
+	width: 367px;
+}
+form{
+    border-style: dotted;
+	border-color: white;
+	margin-left: 10%;
+	margin-top: 10%;
+	margin-right: 75%;
+	padding-left: 50px;
+	padding-bottom: 50px;
+}
+.ship{
+	position: absolute;
+	width: 30%;
+	right: 43%;
+	bottom: 37%;
+
+}
